@@ -160,14 +160,14 @@ li {
         padding: 10px;
         text-align: center; } }
   .header img {
-    max-width: 65%;
-    padding-bottom: 15px; }
+    max-width: 100%;
+    margin-bottom: 15px; }
     @media (min-width: 768px) {
       .header img {
-        max-width: 50%; } }
+        max-width: 65%; } }
     @media (min-width: 1024px) {
       .header img {
-        max-width: 45%; } }
+        max-width: 50%; } }
 
 .support h2 {
   margin: auto;
